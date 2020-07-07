@@ -18,5 +18,6 @@
  -->
 
 
+1. On Mac `brew install terraform`, otherwise: https://learn.hashicorp.com/terraform/getting-started/install.html
 1. Run `export GOOGLE_CREDENTIALS=/path/to/credentials.json`
 1. Run `setup.sh`
