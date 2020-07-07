@@ -1,0 +1,6 @@
+.DS_Store
+.terraform/
+service-key.json
+terraform-plan
+terraform.tfstate
+terraform.tfstate.backup
